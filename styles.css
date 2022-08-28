@@ -1005,4 +1005,17 @@ background-color: #ffffff;
   .loremipsun{
     display: none;
   }
+
+  #service ul {
+    top: 20px;
+    right: -24px;
+    width: 110px;
+    height: 220px;
+    border-radius: 3px;
+    background-color: #f661b5;
+    margin: 0;
+    padding-top: 20px;
+    list-style: none;
+    text-align: center;
+  }
 }
